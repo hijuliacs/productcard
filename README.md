@@ -1,11 +1,11 @@
-<h1 align="center">Card de visualização para a compra de um produto</h1>
+<h1 align="center">Product Card</h1>
 <div align="center">
 <img height="400cm" src="https://user-images.githubusercontent.com/119365652/211894544-3bb43e76-aa4c-461c-b6c2-ecc14f007831.png">
 </div>
 <br>
 
-<h2 align="center">Informações</h2>
-<p align="center">Este projeto foi o segundo desafio proposto pela Rocketseat no programa #boraCodar. Utilizei somente HTML e CSS e terminei tudo em, mais ou menos, 1 hora.</p>
+<h2 align="center">Info</h2>
+<p align="center">This project was the second challenge proposed by Rocketseat in the #boraCodar program. I used only HTML and CSS and finished everything in 1 hour.</p>
 <br>
 
 <div align="center">
@@ -13,9 +13,9 @@
 </div>
 <br>
 
-<h2 align="center">Aprendizado</h2>
-<p align="center">Não tive quase nenhuma dificuldade neste projeto e percebi que estou aprendendo cada vez mais sobre o CSS. Entendi como utilizar o atributo "id" e não demorei muito tempo para deixar tudo no lugar certo, como era antes. A única coisa que não consegui fazer foi adicionar um gif que mostra o produto em 360 graus quando o usuário clica na foto do mesmo.</p>
+<h2 align="center">What I Learned</h2>
+<p align="center">I had almost no difficulties on this project and I found myself learning more and more about CSS. I understood how to use the "id" attribute and it didn't take me long to get everything in the right place, as it was before. The only thing I couldn't do was add a gif that shows the product in 360 degrees when the user clicks on it's photo.</p>
 <br>
 
 <h2 align="center">Deploy</h2>
-<p align="center">Veja e interaja com o projeto clicando <a href="https://hijuliacs.github.io/productcard/">aqui</a>.</p>
+<p align="center">View and interact with the project by clicking <a href="https://hijuliacs.github.io/productcard/">here</a>.</p>
